@@ -1,8 +1,9 @@
 # FUM-persian-language-
-Project NN
 
 
 
-اینجا تحقیقات و کد هایی که در گرایش هوش مصنوعی دانشگاه فردوسی قرار میگیره قرار میدم امیدوارم مورد استفاده شما دوستان قرار بگیره 
+All of my projects and researches in the Ferdowsi University of Mashhad.
 
+I hope you enjoy it and it is useful for you.
 
+be aware of the license of usage of some files - some files i contribute in it and their owner is different 
